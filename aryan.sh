@@ -1,6 +1,7 @@
 #!/bin/bash
 echo "enter2 numbers"
-var1=10
-var2=20
+#akshay
+read var1
+read var2
 sum=` expr $var1 + $var2`
 echo "sum of 2 number is $sum"
